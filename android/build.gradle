@@ -58,7 +58,7 @@ def sdkVariant = "flutter"
 def sdkVariantVersion = "1.0.0"
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 34
     namespace 'com.truecallersdk'
 
     compileOptions {
